@@ -6,6 +6,8 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name=" theme-color" content="#f00" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
 
       <main>
