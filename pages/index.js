@@ -6,8 +6,9 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name=" theme-color" content="#f00" />
+        <meta name="theme-color" content="#f00" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="stylesheet" href="//waste4change.com/sendyourwaste/assets/vendor/bootstrap/bootstrap.min.css" />
       </Head>
 
       <main>
@@ -22,7 +23,7 @@ export default function Home() {
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find documentation for next.js dev pusher</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
